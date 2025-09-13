@@ -14,4 +14,4 @@ Dark fantasy-themed responses and personality
 Customizable settings per server
 
 # Terms of Service:
-Check out the official TRK Bot Terms of Service **[TRK Bot ToS]((https://github.com/emrecangu/TRK_Discord_Bot/blob/main/LICENSE))**
+Check out the official TRK Bot Terms of Service **[TRK Bot ToS](https://github.com/emrecangu/TRK_Discord_Bot/blob/main/LICENSE)**
